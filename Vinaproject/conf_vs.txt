@@ -1,0 +1,13 @@
+receptor = 
+out = resultado.pdbqt
+
+center_x =  57.963
+center_y =  34.571
+center_z =  40.702
+
+size_x =  40
+size_y =  40
+size_z =  40
+
+num_modes = 10
+energy_range = 4

@@ -1,0 +1,1 @@
+vina.exe --config conf.txt --log relatorio.txt

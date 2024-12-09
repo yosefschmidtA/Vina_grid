@@ -1,0 +1,17 @@
+receptor = 2v54.pdbqt
+ligand = Mitoxantrone.pdbqt
+out = resultado.pdbqt
+
+center_x = -70
+center_y = -70
+center_z = -20
+
+size_x =  10
+size_y =  10
+size_z =  10
+
+exhaustiveness = 10
+
+num_modes = 40
+
+energy_range = 20
